@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Moh. Su'aidi or also known as Eed!
+# 👋 Hi, I'm Muhammad Suaidi or also known as Eed!
 👩🏻‍💻 Software Engineer<br/>
 👩🏻‍🎓 Informatics Student at the Universitas Teknologi Yogyakarta<br/>
 🌱 I’m currently learning Next.js
