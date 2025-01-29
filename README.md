@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Suaidi or also known as Eed!
 👩🏻‍💻 Software Engineer<br/>
-👩🏻‍🎓 Informatics Student at the Universitas Teknologi Yogyakarta<br/>
+👩🏻‍🎓 Informatics Student at Universitas Teknologi Yogyakarta<br/>
 🌱 I’m currently learning Next.js
 
 # 💻 Tech Stack:
